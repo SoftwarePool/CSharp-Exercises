@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\Exercise\Exercise8\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.exe
+C:\Users\Lenovo\Desktop\Exercise\Exercise8\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.deps.json
+C:\Users\Lenovo\Desktop\Exercise\Exercise8\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Exercise\Exercise8\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Exercise\Exercise8\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.dll
+C:\Users\Lenovo\Desktop\Exercise\Exercise8\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.pdb
+C:\Users\Lenovo\Desktop\Exercise\Exercise8\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Exercise\Exercise8\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Exercise\Exercise8\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Exercise\Exercise8\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.dll
+C:\Users\Lenovo\Desktop\Exercise\Exercise8\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.pdb

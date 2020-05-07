@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Exercise\Exercise17\Exercise17\obj\Debug\Exercise17.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Exercise\Exercise17\Exercise17\obj\Debug\Exercise17.Form1.resources
+C:\Users\Lenovo\Desktop\Exercise\Exercise17\Exercise17\obj\Debug\Exercise17.Form2.resources
+C:\Users\Lenovo\Desktop\Exercise\Exercise17\Exercise17\obj\Debug\Exercise17.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Exercise\Exercise17\Exercise17\obj\Debug\Exercise17.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Exercise\Exercise17\Exercise17\bin\Debug\Exercise17.exe.config
+C:\Users\Lenovo\Desktop\Exercise\Exercise17\Exercise17\bin\Debug\Exercise17.exe
+C:\Users\Lenovo\Desktop\Exercise\Exercise17\Exercise17\bin\Debug\Exercise17.pdb
+C:\Users\Lenovo\Desktop\Exercise\Exercise17\Exercise17\obj\Debug\Exercise17.exe
+C:\Users\Lenovo\Desktop\Exercise\Exercise17\Exercise17\obj\Debug\Exercise17.pdb

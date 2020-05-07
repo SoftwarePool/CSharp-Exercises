@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\Exercise\Exercise10\Exercise10\bin\Debug\netcoreapp3.1\Exercise10.exe
+C:\Users\Lenovo\Desktop\Exercise\Exercise10\Exercise10\bin\Debug\netcoreapp3.1\Exercise10.deps.json
+C:\Users\Lenovo\Desktop\Exercise\Exercise10\Exercise10\bin\Debug\netcoreapp3.1\Exercise10.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Exercise\Exercise10\Exercise10\bin\Debug\netcoreapp3.1\Exercise10.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Exercise\Exercise10\Exercise10\bin\Debug\netcoreapp3.1\Exercise10.dll
+C:\Users\Lenovo\Desktop\Exercise\Exercise10\Exercise10\bin\Debug\netcoreapp3.1\Exercise10.pdb
+C:\Users\Lenovo\Desktop\Exercise\Exercise10\Exercise10\obj\Debug\netcoreapp3.1\Exercise10.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Exercise\Exercise10\Exercise10\obj\Debug\netcoreapp3.1\Exercise10.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Exercise\Exercise10\Exercise10\obj\Debug\netcoreapp3.1\Exercise10.dll
+C:\Users\Lenovo\Desktop\Exercise\Exercise10\Exercise10\obj\Debug\netcoreapp3.1\Exercise10.pdb
+C:\Users\Lenovo\Desktop\Exercise\Exercise10\Exercise10\obj\Debug\netcoreapp3.1\Exercise10.csprojAssemblyReference.cache

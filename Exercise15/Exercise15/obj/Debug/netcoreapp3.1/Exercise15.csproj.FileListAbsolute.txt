@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Exercise\Exercise15\Exercise15\bin\Debug\netcoreapp3.1\Exercise15.exe
+C:\Users\Lenovo\Desktop\Exercise\Exercise15\Exercise15\bin\Debug\netcoreapp3.1\Exercise15.deps.json
+C:\Users\Lenovo\Desktop\Exercise\Exercise15\Exercise15\bin\Debug\netcoreapp3.1\Exercise15.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Exercise\Exercise15\Exercise15\bin\Debug\netcoreapp3.1\Exercise15.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Exercise\Exercise15\Exercise15\bin\Debug\netcoreapp3.1\Exercise15.dll
+C:\Users\Lenovo\Desktop\Exercise\Exercise15\Exercise15\bin\Debug\netcoreapp3.1\Exercise15.pdb
+C:\Users\Lenovo\Desktop\Exercise\Exercise15\Exercise15\obj\Debug\netcoreapp3.1\Exercise15.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Exercise\Exercise15\Exercise15\obj\Debug\netcoreapp3.1\Exercise15.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Exercise\Exercise15\Exercise15\obj\Debug\netcoreapp3.1\Exercise15.dll
+C:\Users\Lenovo\Desktop\Exercise\Exercise15\Exercise15\obj\Debug\netcoreapp3.1\Exercise15.pdb
